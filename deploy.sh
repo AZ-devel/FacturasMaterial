@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script de deployment para FacturasApp
-echo "🚀 Iniciando deployment de FacturasApp..."
+echo "🚀 Iniciando FacturasApp..."
 
 # Verificar que estamos en el directorio correcto
 if [ ! -f "package.json" ]; then
